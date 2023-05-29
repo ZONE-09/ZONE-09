@@ -19,25 +19,6 @@ body {
 }
 
 
-.photo {
-  background-image: url('assets/ink.gif');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  
-  background-clip: border-box;
-  transition: background-size 0.2s;
-  transition-timing-function: cubic-bezier(.07,1.41,.82,1.41);
-
- 
-  width: 100%;
-  height: 100%;
-  text-decoration: none;
-  cursor: pointer;
-  overflow: hidden;
-  text-indent: 100%;
-  white-space:nowrap;
-}
 
 
 
